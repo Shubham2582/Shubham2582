@@ -38,15 +38,11 @@
 <hr>
 
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=suraj7974&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=suraj7974&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://streak-stats.demolab.com/?user=Shubham2582&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Shubham2582&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suraj7974&show_icons=true&locale=en&theme=tokyonight" alt="suraj7974" /></p>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shubham2582&show_icons=true&locale=en&theme=tokyonight" alt="Shubham2582" /></p>
 <br>
 <hr>
 
-<p>
-    <a href="https://vaunt.dev">
-        <img src="https://api.vaunt.dev/v1/github/entities/suraj7974/contributions?format=svg&private=true" width="350" title="Includes public and private contributions" />
-    </a>
-</p>
+
